@@ -1,0 +1,75 @@
+.navbar {
+  background-color: blue;
+  padding: 20px;
+  border: solid black 2px;
+  border-radius: 10px;
+  display: flex;
+  height: 25px;
+  justify-content: space-between;
+}
+#navB2 {
+  background-color: lightblue;
+  border: solid black 2px;
+  border-radius: 5px;
+  font-family: monospace;
+  cursor: pointer;
+  font-weight: bold;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;;
+  font-family: "Alan Sans";
+  color: black;
+  padding: 10px;
+  padding-bottom: 10px;
+}
+.intro {
+  text-align: center;
+  font-size: 25px;
+  font-family: "Share Tech";
+  color: black;
+}
+#intro {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.heading {
+  display: flex;
+  background-color: cyan;
+  padding: 15px;
+  border: 2px black solid;
+  border-radius: 10px;
+}
+.goals {
+  border: 2px black solid;
+  border-radius: 15px;
+  background-color: red;
+  display: grid;
+}
+#ghead1 {
+  border: solid black 2px;  
+  border-radius: 10px;
+  padding: 10px;
+  font-family: 'Share Tech';
+  font-size: 20px;
+  padding-left: 15px;
+  background-color: lightgreen;
+}
+body {
+  margin: 10px;
+  background-color: #fffdd0;
+}
+.nvcentre {
+  display: flex;
+  gap: 20px;
+}
+.connect{
+  border: 2px black solid;
+  border-radius: 15px;
+  padding: 5px;
+  background-color: yellow;
+  justify-items: center;
+}
+.imgs{
+  padding-top: 10px;
+}
